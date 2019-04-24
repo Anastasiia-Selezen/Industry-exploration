@@ -12,7 +12,6 @@ Exploration of the Business Environment for the Clothing Retailing Industry usin
   <li>Victoria</li>
   <li>Western Australia.</li>
 </ul>
-<br>
 <br><i>Tools:</i> Tableau Public
 <br>
 <br><i>Data Source:</i> www.abs.gov.au
